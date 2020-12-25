@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8197a3</color>
+    <color name="colorPrimaryDark">#647b87</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="signOut">#ee1351</color>
+    <color name="signIn">#0eed7e</color>
+    <color name="colorToolbar">#0000FF</color>
+    <color name="segment">#37474f</color>
+    <color name="splash_screen">#271710</color>
+</resources>

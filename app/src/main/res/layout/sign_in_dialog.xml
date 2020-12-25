@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/user_image"
+        android:layout_width="225dp"
+        android:layout_height="240dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/user_name_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:text="User name: "/>
+
+    <TextView
+        android:id="@+id/user_email_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:text="User email: "/>
+
+    <TextView
+        android:id="@+id/signed_in_via_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:text="Signed in via: "/>
+
+    <Button
+        android:id="@+id/sign_in_out_button"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ee1351"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textSize="20sp"/>
+
+</LinearLayout>

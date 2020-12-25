@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "583204119250",
+    "firebase_url": "https://bookie-9ba32.firebaseio.com",
+    "project_id": "bookie-9ba32",
+    "storage_bucket": "bookie-9ba32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583204119250:android:83376d3a0b01250307830b",
+        "android_client_info": {
+          "package_name": "com.bookie.bookie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583204119250-vssir2f0in5e7svgn9nshekhahktckfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bookie.bookie",
+            "certificate_hash": "baf1f152f3a04a0d21fa1df2c7205007dd142281"
+          }
+        },
+        {
+          "client_id": "583204119250-297i4kg2g2tu2ejc6c7fi3jucnqg8cb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bookie.bookie",
+            "certificate_hash": "923ecd0f94ca5799adb1361327b3203c7b8c2392"
+          }
+        },
+        {
+          "client_id": "583204119250-c35ajfjigk7s9qju3a9ganufc2luvtv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAo4xrXP10W_Ogrtls0ZYpWPCfHsbGO5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583204119250-c35ajfjigk7s9qju3a9ganufc2luvtv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583204119250:android:8e37cde94436469107830b",
+        "android_client_info": {
+          "package_name": "com.bookie_tbh.bookie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583204119250-8catba0e4abj22huciek1805fi6mi49q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bookie_tbh.bookie",
+            "certificate_hash": "923ecd0f94ca5799adb1361327b3203c7b8c2392"
+          }
+        },
+        {
+          "client_id": "583204119250-c35ajfjigk7s9qju3a9ganufc2luvtv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAo4xrXP10W_Ogrtls0ZYpWPCfHsbGO5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583204119250-c35ajfjigk7s9qju3a9ganufc2luvtv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

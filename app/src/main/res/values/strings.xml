@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bookie</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_login">Log-in</string>
+    <string name="title_downloaded">Downloads</string>
+    <string name="facebook_application_id" translatable="false">280822363046885</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb280822363046885</string>
+</resources>
